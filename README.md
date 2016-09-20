@@ -20,7 +20,7 @@ This dataset consists of round trip times (RTTs) between 490 nodes in the Planet
 ---
 
 ##Acknowledgements
-- Seattle (http://www.iplocation.net/) for use to collect the dataset
+- Seattle (https://seattle.poly.edu/) for use to collect the dataset
 - PlanetLab (http://www.planet-lab.org/) for use to collect the dataset
 
 ##License

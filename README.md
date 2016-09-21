@@ -1,4 +1,4 @@
-# Network-Latency-Datasets
+# Network Latency Datasets
 
 This repository consists datasets of network latencies which we collected from two public network platforms: PlanetLab and Seattle. Please feel free to contact us if you have any comments or questions.
 

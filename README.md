@@ -28,7 +28,7 @@ The file name of each frame is as the format `PlanetLabData_t`, where `t` is the
 
 IF YOU USE THIS PACKAGE IN ANY PUBLISHED RESEARCH, PLEASE KINDLY CITE THE FOLLOWING PAPER:
 
-Rui Zhu, Bang Liu, Di Niu, Zongpeng Li, H. Vicky Zhao. "Network Latency Estimation for Personal Devices: a Matrix Completion Approach," to appear in IEEE/ACM Transactions on Networking (TON). Available at: https://github.com/uofa-rzhu3/NetLatency-Data.
+Rui Zhu, Bang Liu, Di Niu, Zongpeng Li, Hong Vicky Zhao, "Network Latency Estimation for Personal Devices: A Matrix Completion Approach", IEEE/ACM Transactions on Networking, vol. 25, no. , pp. 724-737, April 2017.
 
 ## Acknowledgements
 - Seattle (https://seattle.poly.edu/) for use to collect the dataset

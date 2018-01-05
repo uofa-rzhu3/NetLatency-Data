@@ -6,16 +6,16 @@ This repository consists datasets of network latencies which we collected from t
 
 ### Seattle Dataset
 
-** 688 time slices of RTTs between 99 nodes in the Seattle network**
+**688 time slices of RTTs between 99 nodes in the Seattle network**
 
 This dataset consists of round trip times (RTTs) between 99 nodes in the Seattle network over 688 time slices.
 
-The file name of each frame is as the format "SeattleData_t", where "t" is the number of the time slice for this frame. The number "t" ranges from 1 to 688. Each file is a 99x99 matrix, where the (i, j)-th entry indicates the measured RTT from node i to node j.
+The file name of each frame is as the format `SeattleData_t`, where `t` is the number of the time slice for this frame. The number `t` ranges from 1 to 688. Each file is a 99x99 matrix, where the $(i, j)$-th entry indicates the measured RTT from node $i$ to node $j$.
 
 
 ### PlanetLab Dataset
 
-** 18 time slices of RTTs between 490 nodes in the PlanetLab network**
+**18 time slices of RTTs between 490 nodes in the PlanetLab network**
 
 This dataset consists of round trip times (RTTs) between 490 nodes in the PlanetLab network over 18 time slices.
 
